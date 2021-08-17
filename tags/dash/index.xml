@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dash on Projects</title>
+    <link>https://damianb1.github.io/tags/dash/</link>
+    <description>Recent content in dash on Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Aug 2021 09:25:47 +0200</lastBuildDate><atom:link href="https://damianb1.github.io/tags/dash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Web App</title>
+      <link>https://damianb1.github.io/posts/machine-learning-web-app/</link>
+      <pubDate>Fri, 13 Aug 2021 09:25:47 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/machine-learning-web-app/</guid>
+      <description>
+        
+          &lt;p&gt;An analytic web application created with Python, Dash framework and libraries such as pandas, scikit-learn, plotly. It is a dashboard for a machine learning experiment. The goal is to create a binary classification model for predicting bankruptcy of companies. Model is trained on historical data and is supposed to classify new observations. Data sets contain financial rates from a given year of the forecasting period and corresponding class labels that indicate bankruptcy status after 1-5 years.&lt;br&gt;
+This app makes it possible to test various methods and algorithms for tasks such as model fitting, data preprocessing, model evaluation, visualization, etc. Most of the features were made with tools provided by scikit-learn and pandas libraries.&lt;br&gt;
+(The app is not meant for conducting real analysis. It merely demonstrates some functionalities of dash framework in an example context.)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Source code:&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/damianb1/bankruptcy-classification-dash&#34;&gt;https://github.com/damianb1/bankruptcy-classification-dash&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt;&lt;/p&gt;
+
+    
+    &lt;figure class=&#34;video_container&#34;&gt;
+  &lt;video width=&#34;750&#34; controls=&#34;true&#34; allowfullscreen=&#34;true&#34; poster=&#34;/images/ml-app-video-image.png&#34;&gt;
+    &lt;source src=&#34;https://damianb1.github.io/videos/asdf-5000.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;/video&gt;
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Screenshots:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126954100-24a2cfa0-d933-4528-9747-6c87ff774a37.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126954371-7d82e13a-53e6-425c-8e04-7da742d42181.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126954402-79e24deb-9316-4305-bd2e-4c6c0b0200ef.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Projects</title>
+    <link>https://damianb1.github.io/tags/html/</link>
+    <description>Recent content in html on Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Aug 2021 09:24:43 +0200</lastBuildDate><atom:link href="https://damianb1.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Scraping</title>
+      <link>https://damianb1.github.io/posts/web-scraping/</link>
+      <pubDate>Fri, 13 Aug 2021 09:24:43 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/web-scraping/</guid>
+      <description>
+        
+          &lt;p&gt;Automated website data extraction. The information in this example is downloaded from an online English dictionary.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/damianb1/web-scraping-dictionary/blob/main/web_scraping_dictionary.ipynb&#34;&gt;https://github.com/damianb1/web-scraping-dictionary/blob/main/web_scraping_dictionary.ipynb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+
+    
+    &lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126310936-9266e5c8-bbb7-441d-a23c-599a1fb9a76a.png&#34; width=&#34;390&#34;&gt;
+    &lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126310939-90a7a720-af2f-482d-ac36-113c031a6aa0.png&#34; width=&#34;390&#34;&gt;
+    &lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126311195-43fc8a2f-3a09-4254-88c6-faa94b808a77.png&#34;&gt;
+    
+
+
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

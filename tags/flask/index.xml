@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Projects</title>
+    <link>https://damianb1.github.io/tags/flask/</link>
+    <description>Recent content in Flask on Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Aug 2021 09:24:27 +0200</lastBuildDate><atom:link href="https://damianb1.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blackjack game with score saving</title>
+      <link>https://damianb1.github.io/posts/blackjack-game/</link>
+      <pubDate>Fri, 13 Aug 2021 09:24:27 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/blackjack-game/</guid>
+      <description>
+        
+          &lt;p&gt;A simple blackjack game made with the Unity engine.&lt;br&gt;
+Saving and viewing scores made possible through a basic Flask app.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Game: &lt;a href=&#34;https://blackjack-game-test.herokuapp.com&#34;&gt;https://blackjack-game-test.herokuapp.com&lt;/a&gt;
+(loading for the first time may take a while)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Source code for the game: &lt;a href=&#34;https://github.com/damianb1/blackjack-unity&#34;&gt;https://github.com/damianb1/blackjack-unity&lt;/a&gt;&lt;br&gt;
+Source code for the flask app: &lt;a href=&#34;https://github.com/damianb1/blackjack-unity-flask&#34;&gt;https://github.com/damianb1/blackjack-unity-flask&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Game info:
+head to head with dealer, one deck, shuffling after every hand, dealer stands on 17, no insurance, no split.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Screenshots:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/129726051-055a66f5-8bcb-47d6-9eff-202f29eee638.png&#34; alt=&#34;blackjack 1&#34;&gt;
+&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/129726054-fcd99ac6-28d9-4399-a995-be4f88abc61c.png&#34; alt=&#34;blackjack 2&#34;&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

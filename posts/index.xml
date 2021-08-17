@@ -5,6 +5,117 @@
     <link>https://damianb1.github.io/posts/</link>
     <description>Recent content in Posts on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://damianb1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Aug 2021 09:25:47 +0200</lastBuildDate><atom:link href="https://damianb1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Web App</title>
+      <link>https://damianb1.github.io/posts/machine-learning-web-app/</link>
+      <pubDate>Fri, 13 Aug 2021 09:25:47 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/machine-learning-web-app/</guid>
+      <description>
+        
+          &lt;p&gt;An analytic web application created with Python, Dash framework and libraries such as pandas, scikit-learn, plotly. It is a dashboard for a machine learning experiment. The goal is to create a binary classification model for predicting bankruptcy of companies. Model is trained on historical data and is supposed to classify new observations. Data sets contain financial rates from a given year of the forecasting period and corresponding class labels that indicate bankruptcy status after 1-5 years.&lt;br&gt;
+This app makes it possible to test various methods and algorithms for tasks such as model fitting, data preprocessing, model evaluation, visualization, etc. Most of the features were made with tools provided by scikit-learn and pandas libraries.&lt;br&gt;
+(The app is not meant for conducting real analysis. It merely demonstrates some functionalities of dash framework in an example context.)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Source code:&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/damianb1/bankruptcy-classification-dash&#34;&gt;https://github.com/damianb1/bankruptcy-classification-dash&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt;&lt;/p&gt;
+
+    
+    &lt;figure class=&#34;video_container&#34;&gt;
+  &lt;video width=&#34;750&#34; controls=&#34;true&#34; allowfullscreen=&#34;true&#34; poster=&#34;/images/ml-app-video-image.png&#34;&gt;
+    &lt;source src=&#34;https://damianb1.github.io/videos/asdf-5000.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;/video&gt;
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Screenshots:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126954100-24a2cfa0-d933-4528-9747-6c87ff774a37.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126954371-7d82e13a-53e6-425c-8e04-7da742d42181.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126954402-79e24deb-9316-4305-bd2e-4c6c0b0200ef.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Downloading Public Data</title>
+      <link>https://damianb1.github.io/posts/downloading-public-data/</link>
+      <pubDate>Fri, 13 Aug 2021 09:24:58 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/downloading-public-data/</guid>
+      <description>
+        
+          &lt;p&gt;Examples of downloading statistical data from LOCAL DATA BANK (BDL).&lt;br&gt;
+&lt;a href=&#34;https://api.stat.gov.pl/Home/BdlApi&#34;&gt;https://api.stat.gov.pl/Home/BdlApi&lt;/a&gt;&lt;br&gt;
+The data is available through REST API in XML and JSON format.&lt;/p&gt;
+&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/damianb1/public-data-download&#34;&gt;https://github.com/damianb1/public-data-download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Screenshots:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/125617725-f533a9fa-dec4-4561-a9ba-f2f88dbc9411.png&#34; alt=&#34;original data format&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/125616339-e9924daf-479b-4646-8426-6bc96dd0f286.png&#34; alt=&#34;data visualization&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/125622705-e683ed05-5069-41aa-b875-7ed2734b5ec2.png&#34; alt=&#34;data in a table&#34;&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>https://damianb1.github.io/posts/web-scraping/</link>
+      <pubDate>Fri, 13 Aug 2021 09:24:43 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/web-scraping/</guid>
+      <description>
+        
+          &lt;p&gt;Automated website data extraction. The information in this example is downloaded from an online English dictionary.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/damianb1/web-scraping-dictionary/blob/main/web_scraping_dictionary.ipynb&#34;&gt;https://github.com/damianb1/web-scraping-dictionary/blob/main/web_scraping_dictionary.ipynb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+
+    
+    &lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126310936-9266e5c8-bbb7-441d-a23c-599a1fb9a76a.png&#34; width=&#34;390&#34;&gt;
+    &lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126310939-90a7a720-af2f-482d-ac36-113c031a6aa0.png&#34; width=&#34;390&#34;&gt;
+    &lt;img src=&#34;https://user-images.githubusercontent.com/79875767/126311195-43fc8a2f-3a09-4254-88c6-faa94b808a77.png&#34;&gt;
+    
+
+
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Blackjack game with score saving</title>
+      <link>https://damianb1.github.io/posts/blackjack-game/</link>
+      <pubDate>Fri, 13 Aug 2021 09:24:27 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/blackjack-game/</guid>
+      <description>
+        
+          &lt;p&gt;A simple blackjack game made with the Unity engine.&lt;br&gt;
+Saving and viewing scores made possible through a basic Flask app.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Game: &lt;a href=&#34;https://blackjack-game-test.herokuapp.com&#34;&gt;https://blackjack-game-test.herokuapp.com&lt;/a&gt;
+(loading for the first time may take a while)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Source code for the game: &lt;a href=&#34;https://github.com/damianb1/blackjack-unity&#34;&gt;https://github.com/damianb1/blackjack-unity&lt;/a&gt;&lt;br&gt;
+Source code for the flask app: &lt;a href=&#34;https://github.com/damianb1/blackjack-unity-flask&#34;&gt;https://github.com/damianb1/blackjack-unity-flask&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Game info:
+head to head with dealer, one deck, shuffling after every hand, dealer stands on 17, no insurance, no split.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Screenshots:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/129726051-055a66f5-8bcb-47d6-9eff-202f29eee638.png&#34; alt=&#34;blackjack 1&#34;&gt;
+&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/129726054-fcd99ac6-28d9-4399-a995-be4f88abc61c.png&#34; alt=&#34;blackjack 2&#34;&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
   </channel>
 </rss>

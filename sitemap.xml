@@ -2,12 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://damianb1.github.io/categories/</loc>
+    <loc>https://damianb1.github.io/tags/dash/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/posts/machine-learning-web-app/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/pandas/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/plotly/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
   </url><url>
     <loc>https://damianb1.github.io/posts/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
   </url><url>
     <loc>https://damianb1.github.io/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/python/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/scikit-learn/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
   </url><url>
     <loc>https://damianb1.github.io/tags/</loc>
+    <lastmod>2021-08-13T09:25:47+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/posts/downloading-public-data/</loc>
+    <lastmod>2021-08-13T09:24:58+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/json/</loc>
+    <lastmod>2021-08-13T09:24:58+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/requests/</loc>
+    <lastmod>2021-08-13T09:24:58+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/html/</loc>
+    <lastmod>2021-08-13T09:24:43+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/lxml/</loc>
+    <lastmod>2021-08-13T09:24:43+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/posts/web-scraping/</loc>
+    <lastmod>2021-08-13T09:24:43+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/xpath/</loc>
+    <lastmod>2021-08-13T09:24:43+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/posts/blackjack-game/</loc>
+    <lastmod>2021-08-13T09:24:27+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/c#/</loc>
+    <lastmod>2021-08-13T09:24:27+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/flask/</loc>
+    <lastmod>2021-08-13T09:24:27+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/tags/unity/</loc>
+    <lastmod>2021-08-13T09:24:27+02:00</lastmod>
+  </url><url>
+    <loc>https://damianb1.github.io/categories/</loc>
   </url>
 </urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>json on Projects</title>
+    <link>https://damianb1.github.io/tags/json/</link>
+    <description>Recent content in json on Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Aug 2021 09:24:58 +0200</lastBuildDate><atom:link href="https://damianb1.github.io/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Downloading Public Data</title>
+      <link>https://damianb1.github.io/posts/downloading-public-data/</link>
+      <pubDate>Fri, 13 Aug 2021 09:24:58 +0200</pubDate>
+      
+      <guid>https://damianb1.github.io/posts/downloading-public-data/</guid>
+      <description>
+        
+          &lt;p&gt;Examples of downloading statistical data from LOCAL DATA BANK (BDL).&lt;br&gt;
+&lt;a href=&#34;https://api.stat.gov.pl/Home/BdlApi&#34;&gt;https://api.stat.gov.pl/Home/BdlApi&lt;/a&gt;&lt;br&gt;
+The data is available through REST API in XML and JSON format.&lt;/p&gt;
+&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/damianb1/public-data-download&#34;&gt;https://github.com/damianb1/public-data-download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Screenshots:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/125617725-f533a9fa-dec4-4561-a9ba-f2f88dbc9411.png&#34; alt=&#34;original data format&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/125616339-e9924daf-479b-4646-8426-6bc96dd0f286.png&#34; alt=&#34;data visualization&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/79875767/125622705-e683ed05-5069-41aa-b875-7ed2734b5ec2.png&#34; alt=&#34;data in a table&#34;&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
