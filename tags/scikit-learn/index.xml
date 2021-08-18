@@ -15,9 +15,9 @@
       <guid>https://damianb1.github.io/posts/machine-learning-web-app/</guid>
       <description>
         
-          &lt;p&gt;An analytic web application created with Python, Dash framework and libraries such as pandas, scikit-learn, plotly. It is a dashboard for a machine learning experiment. The goal is to create a binary classification model for predicting bankruptcy of companies. Model is trained on historical data and is supposed to classify new observations. Data sets contain financial rates from a given year of the forecasting period and corresponding class labels that indicate bankruptcy status after 1-5 years.&lt;br&gt;
+          &lt;p&gt;An analytic web application created with Python, Dash framework and libraries such as pandas, scikit-learn, plotly. It is a dashboard for a machine learning experiment. The goal is to create a binary classification model for predicting bankruptcy of companies. Model is trained on historical data and is supposed to classify new observations. Data sets contain financial ratios from a given year of the forecasting period and corresponding class labels that indicate bankruptcy status after 1-5 years.&lt;br&gt;
 This app makes it possible to test various methods and algorithms for tasks such as model fitting, data preprocessing, model evaluation, visualization, etc. Most of the features were made with tools provided by scikit-learn and pandas libraries.&lt;br&gt;
-(The app is not meant for conducting real analysis. It merely demonstrates some functionalities of dash framework in an example context.)&lt;/p&gt;
+(The app is not meant for conducting real analysis. It merely demonstrates some functionalities of Dash framework in an example context.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Source code:&lt;/strong&gt;&lt;br&gt;
 &lt;a href=&#34;https://github.com/damianb1/bankruptcy-classification-dash&#34;&gt;https://github.com/damianb1/bankruptcy-classification-dash&lt;/a&gt;&lt;/p&gt;
